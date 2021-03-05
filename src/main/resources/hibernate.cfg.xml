@@ -17,3 +17,5 @@
   </session-factory>
 
 </hibernate-configuration>
+
+<property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
